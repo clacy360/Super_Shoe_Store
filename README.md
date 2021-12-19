@@ -1,2 +1,3 @@
 # Super_Shoe_Store
-Program that loads shoe inventory from a file into a dynamically allocated database. The database will use a structure to store the shoe data. Moreover, pointers to each structure will be contained in a vector. 
+Program manages dynamically allocated memory with vector pointers and reads in shoe inventory data from a file after properly sorting it. 
+Disclaimer: Although I created this solution, this project was not my original idea. It was a school project for Everett Community College related coursework.
